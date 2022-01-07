@@ -14,16 +14,13 @@
 
 This is a simple project to show the transaction of a customer.
 
-### Built With
-
-#### PERN Stack
+### Built With PERN Stack
 
 * [Postgresql](https://www.postgresql.org/)
 * [Express.js](https://expressjs.com/)
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/)
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -48,14 +45,22 @@ Before jumping off to use this webapp in your local environment, make sure you h
    ```sh
    yarn
    ```
-4. Go to frontend folder
+4. Run locally
+    ```sh
+    npm start
+    ```
+5. Go to frontend folder
     ```sh
     cd ..
     cd frontend
     ```
-3. Install NPM packages
+6. Install NPM packages
    ```sh
-   yarn     
+   yarn 
+7. Run locally
+    ```sh
+    yarn start
+    ```
 
 ## Contact
 
