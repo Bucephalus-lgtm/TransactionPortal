@@ -8,9 +8,6 @@
     A portal for managing the transactions of the customers.
   </p>
 </div>
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a simple project to show the transaction of a customer.
 
