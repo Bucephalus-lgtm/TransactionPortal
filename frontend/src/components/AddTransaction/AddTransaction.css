@@ -1,0 +1,11 @@
+.block {
+    display         : block;
+    width           : 100%;
+    color: aliceblue;
+    border          : none;
+    background-color: rgb(255, 71, 215);
+    padding         : 14px 28px;
+    font-size       : 16px;
+    cursor          : pointer;
+    text-align      : center;
+}

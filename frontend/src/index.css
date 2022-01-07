@@ -1,0 +1,9 @@
+body {
+    background             : url('../public/assests/images/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size   : cover;
+    -o-background-size     : cover;
+    background-size        : cover;
+    z-index                : 2;
+    backdrop-filter        : blur(5px) saturate(50%) contrast(100%);
+}

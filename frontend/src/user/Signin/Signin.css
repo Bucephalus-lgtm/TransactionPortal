@@ -1,0 +1,15 @@
+.button-block {
+    display         : block;
+    width           : 100%;
+    color: aliceblue;
+    border          : none;
+    background-color: rgb(44, 85, 6);
+    padding         : 14px 28px;
+    font-size       : 16px;
+    cursor          : pointer;
+    text-align      : center;
+}
+
+.text-redirect {
+    color: rgb(255, 71, 215) !important;
+}
